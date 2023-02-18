@@ -1,0 +1,62 @@
+{
+  "id":  "5c0fab39-8e97-4808-a4d6-266793e23570",
+  "brand":  "Lenovo",
+  "name":  "Thinkpad X1",
+  "cpu":  {
+    "brand":  "Intel",
+    "name":  "Core i3-1005G1",
+    "number_cores":  5,
+    "number_threads":  12,
+    "min_ghz":  3.1252081200605764,
+    "max_ghz":  4.835683467922348
+  },
+  "ram":  {
+    "value":  "51",
+    "unit":  "GIGABYTE"
+  },
+  "gpus":  [
+    {
+      "brand":  "Nvidia",
+      "name":  "GTX 1660-Ti",
+      "min_ghz":  1.1966271516876827,
+      "max_ghz":  1.7040221789955354,
+      "memory":  {
+        "value":  "4",
+        "unit":  "GIGABYTE"
+      }
+    }
+  ],
+  "storages":  [
+    {
+      "driver":  "SDD",
+      "memory":  {
+        "value":  "210",
+        "unit":  "GIGABYTE"
+      }
+    },
+    {
+      "driver":  "HDD",
+      "memory":  {
+        "value":  "5",
+        "unit":  "TERABYTE"
+      }
+    }
+  ],
+  "screen":  {
+    "size_inch":  14.926811,
+    "resolution":  {
+      "width":  4229,
+      "height":  2379
+    },
+    "panel":  "IPS",
+    "multitouch":  false
+  },
+  "keyboard":  {
+    "layout":  "AZERTY",
+    "backlit":  false
+  },
+  "weight_kg":  2.546837500328066,
+  "price_usd":  2928.156995009249,
+  "release_year":  2018,
+  "updated_at":  "2023-02-18T11:54:37.205715100Z"
+}
